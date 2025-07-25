@@ -11,4 +11,4 @@ Raw data for the paper "Exploring Kaneko’s bound: On multi-edges, loops and th
 - The file `special_neigh_0_primes.sage` contains the maximal primes $n_0(\ell) < 3\ell^2$ such that the $j$-invariant $0$ has less neighbors than expected (Theorem 6(b)).
 - The file `special_neigh_1728_primes.sage` contains the maximal primes $n_{1728}(\ell) < 4\ell^2$ such that the $j$-invariant $1728$ has less neighbors than expected (Theorem 6(a)).
 - The file `special_path_primes.sage` contains the maximal primes $s(m) < 3m^2$ such that the $j$-invariants $0$ and $1728$ are connected via a cyclic $m$-isogeny (Proposition 29).
-- The file `triple_loop_primes.sage` contains the maximal primes $g(\ell) < 4\ell^2$ such that there is a triple loop in the supersingular isogeny graph (Proposition 18).
+- The file `triple_loop_primes.sage` contains the maximal primes $g(\ell) < 4\ell^2$ such that there is a triple loop in the supersingular $\ell$-isogeny graph (Proposition 18).
