@@ -1,3 +1,4 @@
+# KanekoExploration
 Raw data for the paper "Exploring Kaneko’s bound: On multi-edges, loops and the diameter of the supersingular ℓ-isogeny graph" ([ADDLINKHERE])
 
 - The file `different_field_primes.sage` contains the maximal primes $d(\ell) < 4\ell^2$ such that a double edge exists between vertices whose $j$-invariants are not $0$ or $1728$ and lie in different fields (Corollary 21).
